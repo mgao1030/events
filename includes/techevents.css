@@ -1,0 +1,22 @@
+table {
+    border-collapse: collapse;
+    width: 100%;
+}
+
+th, td {
+    text-align: left;
+    padding: 8px;
+}
+tr:nth-child(even){background-color: #f2f2f2}
+
+th {
+    background-color: #16256D;
+    color: white;
+}
+th {height:60px;}
+header {text-align:center;width:100%;font-family:"Raleway";color:#2E2E2E;margin:0px;}
+footer {text-align:center;width:100%;margin-top: 40px;font-family:"Raleway";color:#666666;}
+#body {width:30%; margin-left: auto; margin-right:auto;font-family:"Roboto";}
+.error {color:#FF0061;font-family:"Roboto";text-align:center;}
+.message {color:#3D82DA;font-family:"Roboto";text-align:center;}
+.registered {text-align: center;}
